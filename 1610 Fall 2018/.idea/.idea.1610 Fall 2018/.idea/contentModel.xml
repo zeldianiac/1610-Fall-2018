@@ -16,6 +16,10 @@
           <e p="DestroyObject.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="HealthBar" t="Include">
+            <e p="UpdatedImageValue.cs" t="Include" />
+            <e p="ValueChange.cs" t="Include" />
+          </e>
           <e p="IfStatement.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />
           <e p="LocalVars.cs" t="Include" />

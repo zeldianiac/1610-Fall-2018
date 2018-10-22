@@ -48,7 +48,48 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar/UpdatedImageValue.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
+<<<<<<< Updated upstream
               <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+=======
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding>
+                <marker date="1538429467152" expanded="false" signature="6:114" ph="..." />
+                <marker date="1538429467152" expanded="true" signature="156:684" ph="{...}" />
+                <marker date="1538429467152" expanded="true" signature="320:682" ph="{...}" />
+                <marker date="1538429467152" expanded="true" signature="341:371" ph="{...}" />
+                <marker date="1538429467152" expanded="true" signature="389:427" ph="{...}" />
+                <marker date="1538429467152" expanded="true" signature="434:472" ph="{...}" />
+                <marker date="1538429467152" expanded="true" signature="516:549" ph="{...}" />
+                <marker date="1538429467152" expanded="true" signature="586:623" ph="{...}" />
+                <marker date="1538429467152" expanded="true" signature="640:661" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterMover.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+              <folding>
+                <marker date="1538602581801" expanded="true" signature="6:78" ph="..." />
+                <marker date="1538602581801" expanded="true" signature="123:889" ph="{...}" />
+                <marker date="1538602581801" expanded="true" signature="363:421" ph="{...}" />
+                <marker date="1538602581801" expanded="true" signature="475:887" ph="{...}" />
+                <marker date="1538602581801" expanded="true" signature="507:796" ph="{...}" />
+                <marker date="1538602581801" expanded="true" signature="748:786" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NameID.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+>>>>>>> Stashed changes
               <folding>
                 <marker date="1539811670465" expanded="true" signature="6:40" ph="..." />
                 <marker date="1539811670465" expanded="true" signature="88:320" ph="{...}" />
@@ -102,9 +143,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="959" />
     <option name="width" value="968" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+>>>>>>> Stashed changes
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -176,16 +223,24 @@
       <option name="presentableId" value="Default" />
       <updated>1538427406335</updated>
       <workItem from="1538427409978" duration="2495000" />
+<<<<<<< Updated upstream
       <workItem from="1538598904678" duration="3295000" />
       <workItem from="1539031248309" duration="2726000" />
       <workItem from="1539204503789" duration="2340000" />
       <workItem from="1539636531984" duration="2790000" />
       <workItem from="1539810091373" duration="1746000" />
+=======
+      <workItem from="1538598904678" duration="3578000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="15392000" />
+=======
+    <option name="totallyTimeSpent" value="6073000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,8 +252,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< Updated upstream
     <frame x="959" y="0" width="968" height="1047" extended-state="1" />
     <editor active="true" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+>>>>>>> Stashed changes
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26211452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -355,8 +414,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar/UpdatedImageValue.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="270">
           <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+=======
+        <state relative-caret-position="420">
+          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+>>>>>>> Stashed changes
           <folding>
             <marker date="1539811670465" expanded="true" signature="6:40" ph="..." />
             <marker date="1539811670465" expanded="true" signature="88:320" ph="{...}" />

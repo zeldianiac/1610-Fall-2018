@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LocalVars : MonoBehaviour
 {
-    public string Name;
+    string Name;
 
     public void Call()
     {

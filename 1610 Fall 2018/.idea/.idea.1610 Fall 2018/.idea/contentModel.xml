@@ -22,6 +22,7 @@
           <e p="IfStatement.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />
           <e p="LocalVars.cs" t="Include" />
+          <e p="Loops.cs" t="Include" />
           <e p="MouseDownBehavior.cs" t="Include" />
           <e p="MouseEventBehavior.cs" t="Include" />
           <e p="Move.cs" t="Include" />

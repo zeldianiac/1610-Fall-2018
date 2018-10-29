@@ -15,6 +15,7 @@
           <e p="DestroyObject.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameStates.cs" t="Include" />
           <e p="HealthBar" t="Include">
             <e p="UpdatedImageValue.cs" t="Include" />
             <e p="ValueChange.cs" t="Include" />
@@ -30,6 +31,7 @@
           <e p="NameID.cs" t="Include" />
           <e p="ObjectCollection.cs" t="Include" />
           <e p="PowerUp.cs" t="Include" />
+          <e p="SwitchStatements.cs" t="Include" />
           <e p="TriggerEventBehaviour.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
           <e p="WhatCanSeeIt.cs" t="Include" />

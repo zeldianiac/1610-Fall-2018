@@ -12,7 +12,7 @@
     <session id="1720336896">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -32,19 +32,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="9" />
+          <entry key="cs" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="9" />
+          <entry key="C#" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar/UpdatedImageValue.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -100,6 +100,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar/ValueChange.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1539810673699" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539810673699" expanded="true" signature="140:322" ph="{...}" />
+                <marker date="1539810673699" expanded="true" signature="207:241" ph="{...}" />
+                <marker date="1539810673699" expanded="true" signature="286:320" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -108,6 +122,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar/ValueChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar/UpdatedImageValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
@@ -144,7 +159,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds" extendedState="1">
+=======
+  <component name="ProjectFrameBounds">
+>>>>>>> Stashed changes
     <option name="x" value="959" />
     <option name="width" value="968" />
 =======
@@ -228,18 +247,26 @@
       <workItem from="1539031248309" duration="2726000" />
       <workItem from="1539204503789" duration="2340000" />
       <workItem from="1539636531984" duration="2790000" />
+<<<<<<< Updated upstream
       <workItem from="1539810091373" duration="1746000" />
 =======
       <workItem from="1538598904678" duration="3578000" />
+>>>>>>> Stashed changes
+=======
+      <workItem from="1539810091373" duration="2069000" />
 >>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="15392000" />
 =======
     <option name="totallyTimeSpent" value="6073000" />
+>>>>>>> Stashed changes
+=======
+    <option name="totallyTimeSpent" value="15715000" />
 >>>>>>> Stashed changes
   </component>
   <component name="TodoView">
@@ -253,10 +280,14 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <frame x="959" y="0" width="968" height="1047" extended-state="1" />
     <editor active="true" />
 =======
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+>>>>>>> Stashed changes
+=======
+    <frame x="959" y="0" width="968" height="1047" extended-state="0" />
 >>>>>>> Stashed changes
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26211452" />
@@ -426,6 +457,18 @@
             <marker date="1539811670465" expanded="true" signature="88:320" ph="{...}" />
             <marker date="1539811670465" expanded="true" signature="186:225" ph="{...}" />
             <marker date="1539811670465" expanded="true" signature="279:318" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar/ValueChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539810673699" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539810673699" expanded="true" signature="140:322" ph="{...}" />
+            <marker date="1539810673699" expanded="true" signature="207:241" ph="{...}" />
+            <marker date="1539810673699" expanded="true" signature="286:320" ph="{...}" />
           </folding>
         </state>
       </provider>

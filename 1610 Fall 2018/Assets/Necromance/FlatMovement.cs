@@ -4,9 +4,12 @@ using UnityEngine;
 
 public class FlatMovement : MonoBehaviour {
 
+	public CharacterController Controller;
+	
 	// Use this for initialization
-	void Start () {
-		
+	void Start ()
+	{
+		Controller = GetComponent<CharacterController>();
 	}
 	
 	// Update is called once per frame

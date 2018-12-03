@@ -9,8 +9,9 @@ public class GameStates
         Dying,
         Ending,
         Team1Score,
-        Team2Score
-        
+        Team2Score,
+        Following,
+        NotFollowing
     }
 
     public States State;

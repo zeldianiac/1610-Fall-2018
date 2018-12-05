@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10823527\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_1610 Fall 2018.1540865460.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10823527\Desktop\Git Repos\1610-Fall-2018\1610 Fall 2018" t="IncludeRecursive">
+    <e p="C:\Users\Colin\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Colin\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_1610 Fall 2018.-862916571.00" t="ExcludeRecursive" />
+    <e p="E:\Users\Owner\Desktop\Scripting Repo\1610-Fall-2018\1610 Fall 2018" t="IncludeRecursive">
       <e p="1610 Fall 2018.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -17,7 +18,10 @@
           </e>
         </e>
         <e p="Necromance" t="Include">
+          <e p="AIFollow.cs" t="Include" />
           <e p="FlatMovement.cs" t="Include" />
+          <e p="ScanDestory.cs" t="Include" />
+          <e p="ScanForPlayer.cs" t="Include" />
           <e p="SwitchState.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">

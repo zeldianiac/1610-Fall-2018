@@ -9,9 +9,9 @@ public class Instancing : MonoBehaviour
 	public GameObject Instance;
 
 	// ASK ROMWELL ON THIS
-	void Update()
-	{
-		if (Input.GetMouseButtonDown((int) MouseButton.RightMouse));
+	public void Create()
+	
+		
 		{
 			Instantiate(Instance, transform.position, transform.rotation);
 
@@ -19,5 +19,5 @@ public class Instancing : MonoBehaviour
 
 
 	}
-}
+
 	
